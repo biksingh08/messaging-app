@@ -1,0 +1,16 @@
+{
+  "name": "messaging-app",
+  "version": "1.0.0",
+  "description": "A messaging app that lets users send and receive messages",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "export NODE_ENV=test && jasmine"
+  },
+  "repository": {
+    "type": "git"
+    },
+  "author": "Bikram Singh",
+  "license": "ISC",
+  "bugs": {
+  }
+}
